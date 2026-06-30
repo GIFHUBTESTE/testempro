@@ -1,0 +1,18 @@
+{
+  "name": "MetricsPro — Dashboard de Tráfego Pago",
+  "short_name": "MetricsPro",
+  "description": "Dashboard profissional para gestão de tráfego pago. Controle CPA, ROAS, margem e lucro.",
+  "start_url": "./metrics_dashboard.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#111110",
+  "theme_color": "#111110",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
